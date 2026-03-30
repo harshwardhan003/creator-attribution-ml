@@ -223,6 +223,6 @@ MIT
 
 ## Author
 
-Built by **Harshwardhan** as a portfolio project for an internship application at [AnotherTrip](https://anothertrip.com).
+Built by **Harshwardhan** as a portfolio project 
 
 [GitHub](https://github.com/harshwardhan003) · [LinkedIn](https://linkedin.com/in/yourprofile)
