@@ -1,13 +1,6 @@
 # Creator Attribution Engine
 
 > An end-to-end ML pipeline that determines which travel creators actually drive booking demand — built with Markov chain attribution, Shapley values, XGBoost, and BERT sentiment analysis on real YouTube data.
-
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![XGBoost](https://img.shields.io/badge/Model-XGBoost-orange)
-![BERT](https://img.shields.io/badge/NLP-BERT-yellow)
-![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-red)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 ---
 
 ## The Problem
