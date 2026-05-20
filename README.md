@@ -16,13 +16,6 @@ Travel platforms pay creators based on **last-click attribution** — whoever a 
 
 This project builds a fairer system using real YouTube data, Google Trends, and mathematical models from cooperative game theory.
 
----
-
-## Live Demo
-
-**[View the dashboard →](your-streamlit-link-here)**
-
----
 
 ## How It Works
 
